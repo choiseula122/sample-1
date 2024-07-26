@@ -1,0 +1,36 @@
+.landing{
+    margin : 0;
+    padding : 0;
+    width: 360px;
+    height: 760px;
+}
+
+.main{
+    margin : 0;
+    padding : 0;
+    width: 360px;
+    height: 1106px;
+}
+
+.background-landing {
+    background-image: url('images/Frame\ 1.png');
+    background-size : cover;
+}
+
+.button {
+    position:absolute;
+    top: 622px;
+    left: 73px;
+}
+
+.circle {
+    position: absolute;
+    top: 186px;
+    left: 40px;
+}
+
+.main-page {
+    background-image: url('images/Frame\ 2.png');
+    background-size : cover;
+    background-repeat: no-repeat;
+}
